@@ -4,16 +4,16 @@ A fun and interactive Pokémon-themed website, advertising the release Pokémon 
 
 ## Features 🚀
 
--Access important information regarding Pokémon Legends: Z-A
--Watch the official overview trailer! 
--Sign up for updates using the form at the bottom of the page.
--Access other Pokémon-related websites.
--Enable Dark-Mode.
+- Access important information regarding Pokémon Legends: Z-A
+- Watch the official overview trailer! 
+- Sign up for updates using the form at the bottom of the page.
+- Access other Pokémon-related websites.
+- Enable Dark-Mode.
 
 
 ## Built With 🛠️
 
--HTML, CSS, and JavaScript.
+- HTML, CSS, and JavaScript.
 
 ## How to view ❓
 
